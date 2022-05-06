@@ -21,6 +21,7 @@
 
 ### Обо мне :
 Я Frontend разработчик
+- Мои проекты можно посмотреть в открытых репозиториях
 - Живу в России, г.Санкт-Петербург
 - В сбободное время готовлю, играю, и делаю мелкие деревяные поделки
 - Связаться со мной можно тут [![Telegram bage](https://img.shields.io/badge/telegtam-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/stswm)
